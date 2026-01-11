@@ -1,7 +1,11 @@
 # Hi there, I'm Salma Elsetouhy! 👋
 
-🌟 **Master’s student in Data Analytics for Business and Economics** at Higher School of Economics, Saint Petersburg, Russia.  
-🔍 Passionate about leveraging data-driven insights and Machine Learning to solve real-world problems.  
+I am a data analyst with an academic and practical background in finance and data analytics. I graduated from the Faculty of Commerce (English Section) and I am currently pursuing a Master’s degree in Data Analysis, specializing in Customer Analytics.
+
+My work focuses on data cleaning, exploratory analysis, and financial performance analysis using SQL, Excel, and Python. I have built projects involving stock market analysis, macroeconomic indicators, and business datasets, with an emphasis on accuracy, clarity, and real-world applicability.
+
+I am building a portfolio of analytics projects that reflect strong foundational skills in data preparation, analysis, and insight generation for business and financial decision-making.
+
 
 ---
 
